@@ -1,6 +1,6 @@
 # Web-Scraping-IPL-Player-Statistics
 
-# Web Scraping IPL Player Statistics
+
 
 ## Overview
 This repository contains a Python project for web scraping IPL (Indian Premier League) player statistics from [mykhel.com](https://www.mykhel.com/cricket/ipl-2022-stats/). The project includes data collection, web scraping, data cleaning, and data analysis using libraries such as Pandas, Seaborn, and Selenium.
