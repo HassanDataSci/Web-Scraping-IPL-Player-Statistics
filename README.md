@@ -23,7 +23,6 @@ This repository contains a Python project for web scraping IPL (Indian Premier L
 
 ## Instructions for Uploading Your Project
 1. Clone this repository to your local machine using the command:
-https://hassandatasci.github.io/Web-Scraping-IPL-Player-Statistics/
-
+https://github.com/HassanDataSci/Web-Scraping-IPL-Player-Statistics.git
 
 
