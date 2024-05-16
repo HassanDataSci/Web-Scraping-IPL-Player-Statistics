@@ -21,5 +21,4 @@ This repository contains a Python project for web scraping IPL (Indian Premier L
 - **Tools Used**: Pandas and Seaborn
 - **Visualizations**: Created visualizations such as top highest run scorers and top players with most ducks using Seaborn.
 
-## Instructions for Uploading Your Project
-1. Clone this repository to your local machine using the command:
+
